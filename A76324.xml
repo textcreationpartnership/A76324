@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth made manifest: or, The dead man's testimony to the living Being a compendium of the last sayings, dying speeches, sentences, and expressions, of Captain William Bedlow; that pattern of love to his country. Who deceased at Bristol, the 20th. of August, 1680. Convincing all, both deluded Protestants, and wilfully-blinded Papists, of the realty of that late horrid plot; with his endeared caution both to his King and country, shewing the eminent danger that still threatens. With a sermon made upon this text, preached at his funeral by a reverend divine, Mr. Thomas Palmer.</title>
+            <author>Bedloe, William, 1650-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76324</idno>
+            <idno type="STC">Wing B1677B</idno>
+            <idno type="STC">ESTC R175525</idno>
+            <idno type="EEBO-CITATION">99896762</idno>
+            <idno type="PROQUEST">99896762</idno>
+            <idno type="VID">135146</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135146)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2435:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth made manifest: or, The dead man's testimony to the living Being a compendium of the last sayings, dying speeches, sentences, and expressions, of Captain William Bedlow; that pattern of love to his country. Who deceased at Bristol, the 20th. of August, 1680. Convincing all, both deluded Protestants, and wilfully-blinded Papists, of the realty of that late horrid plot; with his endeared caution both to his King and country, shewing the eminent danger that still threatens. With a sermon made upon this text, preached at his funeral by a reverend divine, Mr. Thomas Palmer.</title>
+                  <author>Bedloe, William, 1650-1680.</author>
+                  <author>Palmer, Thomas, b. ca. 1620. aut</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, in VVest-Smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Cf. Wing B1677B which does not list a printer.</note>
+                  <note>Identified as Wing B1677B, reel 2435, of the UMI microfilm set "Early English books 1641-1700".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135146:1" rendition="simple:additions"/>
+            <p>Truth made manifeſt: OR, <hi>The Dead Man's Teſtimony to the Living.</hi>
+            </p>
+            <p>BEING A Compendium of the Laſt Sayings, Dying Speeches, Sentences, and Expreſſions, of Captain <hi>William Bedlow;</hi> That pattern of Love to his Country.</p>
+            <p>Who Deceaſed at <hi>Briſtol,</hi> the 20th. of <hi>Auguſt,</hi> 1680. Convincing all, both Deluded <hi>Proteſtants,</hi> and wilful<g ref="char:EOLhyphen"/>ly-Blinded <hi>Papiſts,</hi> of the Realty of that late Horrid PLOT; with his Endeared Caution both to his King and Country, ſhewing the Eminent danger that ſtill Threatens.</p>
+            <p>
+               <hi>With a Sermon made upon this Text, Preached at his Funeral by a Reverend Divine, Mr.</hi> THOMAS PALMER.</p>
+            <q>
+               <bibl>
+                  <hi>Romans</hi> Chap. 14. Ver. 12, 13.</bibl>
+               <p>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o then every one of us ſhall give an account of himſelf to God: Let us not therefore judge one another any more, but judge this rather, That no man put a Stumbling-block, or an oc<g ref="char:EOLhyphen"/>caſion to fall in his Brothers way.</p>
+            </q>
+            <p>Printed for P. <hi>Brooksby,</hi> in <hi>VVeſt-Smithfield.</hi> 1680. <add>112 Octob</add>
+            </p>
+            <pb facs="tcp:135146:2"/>
+            <pb facs="tcp:135146:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135146:3"/>
+            <pb n="1" facs="tcp:135146:3"/>
+            <head>The Righteous Evidence, <hi>VVitneſſing the TRUTH.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Romans</hi> Chap. 14. Ver. 12, 13.</bibl>
+                  <p>So then every one of us ſhall give an account of himſelf to God:</p>
+                  <p>Let us not therefore judge one another any more, but judge this rather, That no man put a Stumbling-block, or an occaſion to fall in his Brothers way.</p>
+               </q>
+            </epigraph>
+            <p>BY this Text it plainly appears, that judgement alone belongs unto God, that is, The judgement of the pure immortal Soul; and that whoſoever undertakes to lay any cenſure there, whether right or wrong, audaciouſly preſumes to Rob the Almighty of his Prerogative; and not only ſo, but arrogates to himſelf what does not in the leaſt appertain unto any Mortal to Inter<g ref="char:EOLhyphen"/>meddle with; for every one of us muſt give a particular account for himſelf, before the great Tribunal of the God of all the Earth, who is the deſcerner of all hearts, and thoughts, who <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rys like the Refiner, and only knows the
+<pb n="2" facs="tcp:135146:4"/>
+Droſs from the pureſt Gold: He who is cloathed with Righteouſneſs, whoſe eyes run to and fro in the earth, who knows all Boſom-thoughts, and can pry into the deepeſt ſecrets of the Soul: he it is alon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to whom judgement belongs, who has proclaimed himſelf a God ſloe to Anger, of long patience and forbearance, therefore moſt fit to be our judge, whom neither Intereſt nor paſſion can any way obliege to ſwerve, either to the right hand or to the left; yet infinite to pardon all that will confeſs their faults, and in time come unto him; nay, ſo good, that he has freely promiſed, That whenſo<g ref="char:EOLhyphen"/>ever a ſinner turns away from his wickedneſs and forſakes his ſin, his Soul ſhall Live; and that by ſo doing he ſhall ſave his Soul alive, which our Saviour well noteth in the Parable of the Prodigal, who after he had taken his portion of Goods, and as it was in diſobedience to his Fathers Will, departed into a far Coun<g ref="char:EOLhyphen"/>try, where long he lived Riotous, and ran into all Exceſs till his large ſtore was ſpent, and then was forced to feed on Husks, pinched with Poverty and Hunger, quite forſaken of his Luxurious Companions, who like the Swal<g ref="char:EOLhyphen"/>lows, only ſing to our Morning wakes, and bask themſelves in the Sun beams of our proſ<g ref="char:EOLhyphen"/>perity, but when the Winter ſtorms come on, ſoon vaniſh, I ſay, he being quite forſaken, and
+<pb n="3" facs="tcp:135146:4"/>
+finding all good things departed from him, be<g ref="char:EOLhyphen"/>gan to reflect upon his former folly, and then had thoughts, and not till then, of returning to his Father. So fares it often with poor Sin<g ref="char:EOLhyphen"/>ners here on earth, who after a long courſe in Sin, at laſt look back and view their dreadful paths they careleſly have trod, and then bethink them whether they are hurrying, to what a fatal place thoſe broad paved ways do <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end, which conſideration mixed with the thoughts of vaſt Eternity, often cauſes them to bemoan them<g ref="char:EOLhyphen"/>ſelves, and ſtop their full Carrier, laying hold of Sacred promiſes, to ſtop them from falling <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto the deep Gulph of Everlaſting Woe; ſuch <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s our bleſſed Saviour freely pronounces to the worſt of men, excepting none, but is wil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing that all ſhould be ſaved: <hi>Come unto me all ye that are heavy laden and I will give you <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt.</hi> And again, <hi>Whoſoever cometh unto me, I will in no wiſe caſt him off:</hi> Nay, the Triumph is greater in Heaven for one ſinner Converted, then for Ninety and nine Iuſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſons that need no Repentance. So that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeing it is the Almighty's pleaſure who made <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s out of the duſt, and can with the breath of his Noſtrils, turn us into the ſame to ſave us from miſery: why ſhall any one preſume to judge <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Brother, when Heaven has expreſly com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anded to the contrary? ſaying, <hi>Judge not,
+<pb n="4" facs="tcp:135146:5"/>
+leaſt thou be Judged:</hi> For ſure it is, no man nor Angel has that power given into his hands, no, 'tis the ſole Prerogative of our wiſe Crea<g ref="char:EOLhyphen"/>tor: or ſay they had, which cannot be poſſible: how can they give rightful judgement who can go no farther then the outward actions? for 'tis certain none but God can ſee into our thoughts nor pry into the Cabinets of our Souls, to draw from thence an Indictment againſt us, and charge us with unboſomed Sin: And again, thoſe that look fair on the outſide, and are guild<g ref="char:EOLhyphen"/>ed over with a ſpecious gloſs of good and pious Deeds, may lodge black Hypocriſie within, and cloak all their actions with the ſame, thereby to deceive the world: ſo like the fruit that grows about the Lake where wicked <hi>Sodom</hi> once ſtood, they may ſhine bright &amp; bear a Golden Rhine, which being broke, incloſes nought but Aſhes and Cinders, to delude thoſe that imagine them, before they are Plucked, moſt pleaſant and delicious.</p>
+            <q>So then, every one of us ſhall give an ac<g ref="char:EOLhyphen"/>count of himſelf to God: Let us not therefore Judge one another any more, but judge this rather, that no man put a Stumbling-block, or an occaſion to fall in his Brothers way.</q>
+            <p>
+               <pb n="5" facs="tcp:135146:5"/>The meaning of the words, <hi>That every man ſhall give an account of himſelf to God:</hi> Is,</p>
+            <p>That he ſhall appear before the Iudgement ſeat of God, to anſwer for all his deeds done in the fleſh, whither they be good, or whither they be evil; not that God needs any account to be given of any perſon, for ſure it is he knows the ſecrets of all hearts, nor that he will take the account of any perſon as himſelf ſhall ſtate it, though as many Devines hold, that then the Conſcience of Man is ſo Powerful, that no<g ref="char:EOLhyphen"/>thing can be hid or has been done, but what it will reveal and lay open as Noon-day: Nay, ſuppoſe it did not, yet he that keeps the record of each particular action, nay of our very thought and privateſt Immagination, could ſoon unre<g ref="char:EOLhyphen"/>veal all, for <hi>Behold</hi> (as the Prophet ſaith) <hi>his Fan is in his Hand to divide and ſift the Chaff from the wheat:</hi> Nor can there be any Dark<g ref="char:EOLhyphen"/>neſs in him who is the fountain of Eternal Light, and never dwells but in Light unap<g ref="char:EOLhyphen"/>proachable: He it is that is the only diſ<g ref="char:EOLhyphen"/>cerner of the heart: <hi>Let us not therefore Judge one another any more;</hi> which is the ſecond thing to be conſidered; That is, let not any cenſure a man by his former actions, for at the laſt moment God is All-ſufficient, and can pardon to the utmoſt: but rather,
+<pb n="6" facs="tcp:135146:6"/>
+as it is in <hi>Job 32.3. Lay thy finger up<g ref="char:EOLhyphen"/>on thy Mouth, hold thy peace, and com<g ref="char:EOLhyphen"/>mit it to God, who ſhall Judge the world in Righteouſneſs and Truth, by that Man Jeſus, whom he hath ordained: For he that thinketh himſelf to be ſomething when he is nothing, deceiveth himſelf, Gal. 6.3.</hi> And again, <hi>The <hi>Lord</hi> preſerveth the lowly, and giveth Grace to the Humble, <hi>Pſal.</hi> 34.17. 1 <hi>Pet.</hi> 5.5.</hi> Therefore let none judge what God ſhall think fit to do, for Man's Wiſdom in ſuch caſes, is but fooliſh<g ref="char:EOLhyphen"/>neſs, and in ſuch as preſume to do it, ſhew their Malicious Spirit, though to no purpoſe, and ſhew what they would do were it in their Powers, which may juſtly turn Almighty Vengeance on themſelves for ſuch High Affronts, and Divine Wrath may burn im<g ref="char:EOLhyphen"/>placable againſt all Vncharitable Wretches. who by ſo doing, deny the Authority of holy Writ, for there the bleſſed Apoſtle commands us to be in Charity with all men, and as God is ſo Charitable and Meerciful, that he Created no man to Deſtruction, but is willing that all ſhould come unto him. Why then ſhould we that are but Duſt, preſume to Iudge one another? Amongſt <hi>Proteſtants</hi> it ſhould be a thing moſt deteſtable, though <hi>Papiſts</hi> hold it as part of their Faith, that
+<pb n="7" facs="tcp:135146:6"/>
+they know whether men ſhall go to Heaven or Hell when they depart this Life, which opinion, their Cannonizing ſeveral for Saints doth confirm: and aſcribing others <hi>Purgatory</hi> f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r their Manſion, whilſt thoſe that cannot pay their paſſage, are confined to the loweſt Hell: Theſe are their groſs Errors and Abſurdities, theſe are the Stumbling-blocks they lay for many thouſands to fall at, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew that acknowledge the <hi>Roman-Catholique</hi> Faith eſcape: Theſe are the Blind that lead <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Blind, till both full into the Ditch: for <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the Prophet <hi>David</hi> ſaith, <hi>Pſal. 62.12. God rewardeth every man according to his works:</hi> Therefore it is not as men will, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut as God pleaſeth, and all his deeds are <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pright and Iuſt, and his Will is his Law, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot being confined or Circumſcribed to Lim<g ref="char:EOLhyphen"/>mits or Bounds, but Infinite both in Wiſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om and Iuſtice, which brings me to the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hird part of the Text: <hi>But judge this ra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her, that no Man put a Stumbling-block:</hi> That is, that no man by making falſe In<g ref="char:EOLhyphen"/>terpretations or Comments, upon the Lives <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ways of men, and ſhould thereby give <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers couſe to doubt their own ſtate there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, ſo to Terrifie them, as to make them <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſpair of Gods mercies, and with <hi>Cain</hi> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nclude, Their Sins are too great to be
+<pb n="8" facs="tcp:135146:7"/>
+forgiven: when the precious Blood of t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Lamb ſlain from the foundation of the world is of force ſufficient to purge away the vile Polutions of the moſt Notorious Sinner and by laying hold upon his mercies <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Prayer and ſincere Repentance, pardon wi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be found, even at the laſt moment of Life But I ſay not this becauſe I would hav<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any one deferr their repentance till they ar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> juſt going to be puſhed off into the Wid<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Abiſs of Eternity, for that is it the power of Hell, our cruel and Immortal foes, woul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have us do: but I ſay, it is not impoſſib<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we may then find mercy, nay, I believ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many thouſands have, who now are ſingin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> loud <hi>Hoſannah,</hi> to the God of mercy.</p>
+            <p>Another Stumbling-block that the Enviou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have laid to overthrow the Weak, is, T<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> point out to them the moſt ſtrict and ſever<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Comm<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s that the Scripture enjoyns, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> putting on them more dreadful Interpret<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tions then the Senſe it ſelf will bear, tell<g ref="char:EOLunhyphen"/>ing that if they do not obſerve thoſe Rules (too ſtrict for Mortal Man) they muſt In<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bly periſh, that without ſuch due Obſer<g ref="char:EOLunhyphen"/>vances there is no Salvation to be purchaſed which often ſtaggers their Faith and puts them to a ſtand, who ſeeing that they cannot g<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> forwards, oftentimes let go their hold an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="9" facs="tcp:135146:7"/>
+fall into a foul Relapſe, which by a ſtedfaſt laying hold on the Merits of our Great Re<g ref="char:EOLhyphen"/>deemer, who was once offered up a Sacrifice for us all might be prevented, for we by Faith are made his Brethren and Fellow Heirs: then ſure it is, he will not deny us his Aid in ought, if we implore it, e<g ref="char:EOLhyphen"/>ſpecially with unfeigned hearts and Lips, by Prayer and Supplication; for he hath com<g ref="char:EOLhyphen"/>manded us to ask and it ſhall be given, to Knock and it ſhall be opened unto us, which can be by no other means then what is ſaid in <hi>Eccleſ. 35.17. The Prayers of the Hum<g ref="char:EOLhyphen"/>ble ſhall pierce the Clouds, and will not depart until the higheſt regard it.</hi> Prayer and Meditation being the only Armour a<g ref="char:EOLhyphen"/>gainſt all the fiery Darts of Satan, for as it is ſaid <hi>Mat. 19.4. Humble thy ſelf as a little Child:</hi> and when God ſees thee lye low at his Foot-ſtool, he will raiſe thee up and Exalt thee above thy Fellows; that is, he will pour his Grace into thy heart, and make it fit to bring forth Seed of Everlaſt<g ref="char:EOLhyphen"/>ing Life: for as St. <hi>Chriſoſtom</hi> obſerves, he always flies from the Proud and Lofty, but with the Lowly and Meek delighteth to dwell, for unto ſuch his Grace is freely be<g ref="char:EOLhyphen"/>ſtowed, nor do they fear what man can do unto them, ſince they have built on a ſure
+<pb n="10" facs="tcp:135146:8"/>
+Foundation, a Rock that will never decay, no Powers of Death or Hell are able to re<g ref="char:EOLhyphen"/>move it, for like to <hi>Iacobs</hi> Ladder, its top reaches to Heaven, and from thence benigne Influenc'd, deſcends as the Dew of <hi>Hermon,</hi> to refreſh their Souls, and to make them ſtand againſt all Temptations, prepared al<g ref="char:EOLhyphen"/>ways for the Bride-Grooms comming: they fear not the going out of their well-furniſhed Lamps, but ſmile on the Ghaſtly King of Terror, and with the Holy Apoſtle falling into Rapture, and cry, <hi>O Death where is thy Sting? O Grave where is thy Victory?</hi> For after Death they are far happier then whilſt they Live: yet theſe are they the world often paſſes their Cenſure on, becauſe they once were diſobedient to the Laws of God, which is a ſtrong Argument they doubt the All-ſufficiency of an Infinite being, and that his mercies are not greater then our Sins, imagining with <hi>Iudas,</hi> He is not able to forgive, or at the leaſt, he will not: when Holy Scripture makes mention of many pious men who had led Evil Courſes, and Lived Wickedly, till they ſaw their Follies, and then returned from their Evil ways, by the aſſiſtance of Divine Grace. For Note, That Man barely of himſelf, has not the power to do Good, though <hi>Popiſh</hi> Superſtitions
+<pb n="11" facs="tcp:135146:8"/>
+blind the Ignorant with Merrits, perſuading their Proſelites, that leave is gained there<g ref="char:EOLhyphen"/>by, and that they may depend on that for Salvation, only adding to them, to believe as their Church does, though they know not many times themſelves what ſhe believes, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what ſhe does preofeſs, by reaſon ſo many Traditions of Mens making, have been lately <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hruſt in, under the pretence of the POPES Infallibility, the which are laid as ſo many Stumbling-blocks, or to come home to my Text, as <hi>occaſions to fall in his Brothers <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay:</hi> That is, to lay any thing in his way <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n purpoſe for him to fall over, or to impoſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon him things that does confound his Reaſon, and ſtagger his Capacity, as <hi>Rome</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gain holds in her Power of Tranſubſtan<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iation, which is that the Prieſt has power <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y mumbling over a few Formal Prayers, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o turn a Wafer made of Wheat-flower, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto the Corporal Body of our Bleſſed Lord: <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, and they go on farther, to averr 'tis <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſame Body that once was Nailed to the Croſs, and that by the ſame power, Wine <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch as is uſually drank in Taverns, is <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urned into the ſelf ſame Blood that once was ſhed for the Redemption of the World. With theſe, and ſuch like Fables, they have <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong deceived the Nations. This I mention
+<pb n="12" facs="tcp:135146:9"/>
+the rather, becauſe this our deceaſed Brother was once ſubject to the ſame Deluſions, till Heaven opened his Eyes, by giving him Wiſdom from above, to diſcern their vain and Fooliſh ways, and in abhorrance to their Black and Helliſh Crimes, to break the Chain of Superſtition, and get looſe from thoſe Bloody <hi>Philitians,</hi> who endeavour'd to Sa<g ref="char:EOLhyphen"/>crifice three Kingdoms, and commit murders and Rapins, under a pretended Zeal for to Propagate Religion, which is quite contra<g ref="char:EOLhyphen"/>ry to Holy rules laid down in Scripture for our Learning: for all the Apoſtles of Ald fought only with the Sword of the Spirit, and not the Sword of Perſecution: and our Sa<g ref="char:EOLhyphen"/>viour himſelf commanded <hi>Peter</hi> to put up his Sword, though drawn in his behalf, ſaying, <hi>Thoſe that ſmite with the Sword, ſhall periſh with the Sword:</hi> which Scripture has partly been fulfilled ſince the beginning of this late Helliſh Plot: For by the Sword of Iuſtice ſeveral of the Black Conſpirators have juſtly fell, for contriving their Dire Projects againſt the beſt of Kings, which no doubt had took effect to the utter Ruin of himſelf and People, had not Heavens providence prevented it by timely raiſing up ſuch faithful diſcoverers, as removed the Stumbling-blocks they had laid in all our ways, amongſt which, this departed Gentle<g ref="char:EOLhyphen"/>man,
+<pb n="13" facs="tcp:135146:9"/>
+Mr. <hi>William Bedlow,</hi> was not the leaſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Loyalty and free diſcovery, to break the <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ockatrice's</hi> Egg, that Hell and <hi>Rome</hi> had <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng ſat Brooding on, and laid their Horrid <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urthers and ſecret Villanies quite open to <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e world, and encouraged by that power which <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt Inſpired him to Reveal the Dark Deſigns the Scarlet Beaſt, that long time has De<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ived the Nations: He ſtaggered not, but as faithful Witneſs, to the laſt affirmed his <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtimony to be Iuſt and True, nor could be <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ken neither with Bribes nor Threats, ſcorn<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g the former with diſdain, and ſmiling at the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tter, as knowing that Heaven would defend <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m from their ſnarling rage, till his appointed <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me was come: At which he made a Pious <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Chriſtian-like end, repenting him of no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng more, then of having ſpent ſo much of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> days in <hi>Romiſh</hi> Superſtitions, and Idol<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ry, yet Praying for his Foes, wiſhing that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od would turn their hearts, that they might their Errors, and repent the Evil they ended, not only to him, but againſt the King <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Kingdom: And ſo Commending his Spi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> into the Hands of his Eternal Redeemer, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Great God of Souls, and Everlaſting <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ince of Life, he yielded up the Ghoſt, and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no doubt is happy, let the <hi>Papiſts</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſure as they pleaſe by his former actions:
+<pb n="14" facs="tcp:135146:10"/>
+the thoughts of which, made me chuſe pur<g ref="char:EOLunhyphen"/>poſely this Text, to let them underſtand tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is the Repentance, though late, wil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> find acceptance with God; and that he wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> came into the Vineyard at the Elevent<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Hour of the day, received as much as h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who had born the Heat. And thus much ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuffice for this occaſion.</p>
+            <p>
+               <hi>Now to the God of all Glory and Power be Honour, praiſe, Might, Majeſty, an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dominion, henceforth and for evermore.</hi>
+            </p>
+            <p>
+               <hi>Bleſſed are the Dead which Dye in th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord, they reſt from their Labours, an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Works do follow them.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135146:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
